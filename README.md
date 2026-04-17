@@ -65,7 +65,7 @@
 
 ## 🔢 Featured Work
 
-### 🔧 Verilog-Based Sine Calculator
+### 🔧 32-BIT RISC-V Processor
 - Synthesizable RTL
 - LUT-based optimized design
 - Hardware-efficient architecture
